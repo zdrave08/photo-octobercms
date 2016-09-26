@@ -3,7 +3,7 @@ Photo HTML5UP Template & OctoberCMS Laravel Framework Theme
 
 Photo is a free HTML5 template from HTML5UP for creatives, with a simple and modern layout. Nice CSS3 animation added on each section scroll and navigation. This template uses jquery.js animation script to animate section elements. Ported for OctoberCMS.
 
-![Screenshot](https://raw.githubusercontent.com/rainlab/vanilla-theme/master/assets/images/theme-preview.png)
+![Screenshot](https://github.com/zdrave08/photo-octobercms/blob/master/assets/images/theme-preview.png)
 
 LICENCE:
 --------
